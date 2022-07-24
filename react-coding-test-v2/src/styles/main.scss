@@ -1,0 +1,40 @@
+@import "variables";
+
+body {
+  font-family: "HelveticaNeue-USB", "Helvetica Neue", Helvetica, Arial,
+    "Open Sans", sans-serif;
+  color: $usb-text;
+  margin: 0;
+}
+
+h1 {
+  color: $usb-blue;
+}
+
+.bank-employee {
+  margin-bottom: 1rem;
+}
+
+header {
+  border-bottom: 1px solid $usb-text;
+  .header-logo {
+    padding: 1rem;
+  }
+}
+
+main {
+  padding: 2rem 3rem;
+}
+
+footer {
+  height: 4rem;
+  background-color: $usb-blue;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  color: #ffffff;
+  padding: 1rem;
+  font-size: 0.75rem;
+}
+
+/* Add Button styles and hover states */

@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "userName": "x004Banker",
+    "name": "Rachael Horton",
+    "type": "banker",
+    "satisfactionRating": "85"
+  },
+  {
+    "id": 2,
+    "userName": "x005Banker",
+    "name": "Ora Hughes",
+    "type": "banker",
+    "satisfactionRating": "54"
+  },
+  {
+    "id": 3,
+    "userName": "silverswan131",
+    "name": "Mabel Brooks",
+    "type": "teller"
+  },
+  {
+    "id": 4,
+    "userName": "x006Banker",
+    "name": "Tyler Hamilton",
+    "type": "banker",
+    "satisfactionRating": "95"
+  },
+  {
+    "id": 5,
+    "userName": "BBQKing99",
+    "name": "Martin Cortez",
+    "type": "teller"
+  },
+  {
+    "id": 6,
+    "userName": "x007Banker",
+    "name": "Jacquelyn Burns",
+    "type": "banker",
+    "satisfactionRating": "15"
+  },
+  {
+    "id": 7,
+    "userName": "PeanutButterJelly",
+    "name": "Desiree Fields",
+    "type": "teller"
+  }
+]
+  
